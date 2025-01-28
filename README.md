@@ -18,7 +18,7 @@
 
 ## Database: Shared collection of processed, logically related data and its description.
 
-# Database Management System (DBMS) : software system which allowes users to create, maintain, and "access" the Database.
+## Database Management System (DBMS) : software system which allowes users to create, maintain, and "access" the Database.
 
 ## DBMS functions: 
 - Utility: import, export, manage data
