@@ -1,4 +1,4 @@
-# DBMS---SQL-NoSQL
+# DBMS---SQL/NoSQL
 
 
 ## Data : 
