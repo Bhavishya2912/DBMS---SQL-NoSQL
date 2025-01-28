@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1a3a8a8c-c69d-4169-ba46-1f9b2561867f)# DBMS---SQL-NoSQL
+# DBMS---SQL-NoSQL
 
 
 ## Data : 
@@ -16,11 +16,15 @@
 - Irrespective of application: posts should be visible on all browsers (mobile or desktop).
 - concurrency: all my friends should be able to view posts concurrently(at same time).
 
+<hr>
+
 ## Database: Shared collection of processed, logically related data and its description.
 
 ## Database Management System (DBMS) : software system which allowes users to create, maintain, and "access" the Database.
 
 ## DBMS functions: 
+![image](https://github.com/user-attachments/assets/1a3a8a8c-c69d-4169-ba46-1f9b2561867f)
+
 - Utility: import, export, manage data
 - Data Management: STore , retrieve data
 - Integrity
