@@ -17,7 +17,7 @@ A collection of relations(tables), where each relation (table) have a distinct n
 ![image](https://github.com/user-attachments/assets/748a6efe-6f83-41c1-812e-6793761b3952)
 
 - **Domain Integrity**:
-ensure values stored in a columm/attribute are valid and within a specific range or domain. ( eg: NOT NULL Constraint, CHECK Constraint)
+- -           ensure values stored in a columm/attribute are valid and within a specific range or domain. ( eg: NOT NULL Constraint, CHECK Constraint)
 
 - **Entity Integrity:**
 -             -used to determine individual rows in a relation uniquely.
