@@ -4,7 +4,7 @@ A collection of relations(tables), where each relation (table) have a distinct n
 
 ## Relations = Tables 
 <b>Attribute</b> = Field / Column
-<b>Tuple</b = Row / Records
+<b>Tuple</b> = Row / Records
 
 <b>Degree: </b> no. of attributes/columns
 <b>Cardinality: </b> no. of rows
