@@ -4,14 +4,19 @@ A collection of relations(tables), where each relation (table) have a distinct n
 
 ## Relations = Tables 
 <b>Attribute</b> = Field / Column
+
 <b>Tuple</b> = Row / Records
 
 <b>Degree: </b> no. of attributes/columns
+
 <b>Cardinality: </b> no. of rows
+
 <b>NULL: </b>: Unknown value
+
 <b>Domain: </b> set of allowable values in 1 or more attributes 
             ![image](https://github.com/user-attachments/assets/c472d46f-02fc-4e45-99c4-03085dbed09d)
 
+<hr>
 
 ## Data Integrity Constraints:
 ![image](https://github.com/user-attachments/assets/748a6efe-6f83-41c1-812e-6793761b3952)
