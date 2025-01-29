@@ -36,16 +36,16 @@ A collection of relations(tables), where each relation (table) have a distinct n
 
 
 **Super Key**: 
--               - The set of one or more attributes (columns) that can identify rows in a table is known as Super Key. 
-                - It supports NULL values in rows. 
-                - Default keys - every keys in a table - e.g. - SId, Branch, Reg_ID, Name, SId+Branch, Branch+Reg_id, Reg_id+SId, SId+Reg_id+Branch
+- The set of one or more attributes (columns) that can identify rows in a table is known as Super Key.
+- It supports NULL values in rows.
+- Default keys - every keys in a table - e.g. - SId, Branch, Reg_ID, Name, SId+Branch, Branch+Reg_id, Reg_id+SId, SId+Reg_id+Branch
                 
 **Candidate Key**: 
--                - Minimal set of attributes which can identify the row (Minimum keys only required - all are not required to identify rows - unnecessary)
-                - if any subset of the super key is also a super key, then it can't be a candidate key.
-                - eg - (SId+Reg_id+Branch) = super key, it's subset (Branch+Reg_id) also super key . Hence it's not = candidate key.
-                - (Branch+Reg_id) = S.K, it's subset Branch, Reg_id both super keys. Hence Branch+Reg_id not = C.K
-                - Thus SId, Reg_id, branch = Candidate keys.
+- Minimal set of attributes which can identify the row (Minimum keys only required - all are not required to identify rows - unnecessary)
+  if any subset of the super key is also a super key, then it can't be a candidate key.
+  eg - (SId+Reg_id+Branch) = super key, it's subset (Branch+Reg_id) also super key . Hence it's not = candidate key.
+  (Branch+Reg_id) = S.K, it's subset Branch, Reg_id both super keys. Hence Branch+Reg_id not = C.K
+  Thus SId, Reg_id, branch = Candidate keys.
                 
 **Primary Key**:
 - A candidate key which is used to uniquely identify data. (Can pick any 1, candidate key)
