@@ -35,7 +35,7 @@ Participation Constraint is applied to the entity participating in the relations
 2. Partial Participation – The entity in the entity set may or may NOT participate in the relationship. If some courses are not enrolled by any of the students, the participation in the course will be partial.
 
 
-## Functional dependancy and Normalisation**
+## Functional dependancy and Normalisation
 - ER Concept: Defines the high-level structure of the database, including entities, attributes, and relationships.
 
 - Functional Dependency: Identifies the relationships between attributes within entities, which helps in understanding how data should be organized.
