@@ -42,8 +42,8 @@ A collection of relations(tables), where each relation (table) have a distinct n
                 
 **Candidate Key**: 
 - Minimal set of attributes which can identify the row (Minimum keys only required - all are not required to identify rows - unnecessary)
-  if any subset of the super key is also a super key, then it can't be a candidate key.
-  eg - (SId+Reg_id+Branch) = super key, it's subset (Branch+Reg_id) also super key . Hence it's not = candidate key.
+- if any subset of the super key is also a super key, then it can't be a candidate key.
+-  eg - (SId+Reg_id+Branch) = super key, it's subset (Branch+Reg_id) also super key . Hence it's not = candidate key.
   (Branch+Reg_id) = S.K, it's subset Branch, Reg_id both super keys. Hence Branch+Reg_id not = C.K
   Thus SId, Reg_id, branch = Candidate keys.
                 
