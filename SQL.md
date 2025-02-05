@@ -1,0 +1,16 @@
+# SQL
+Used to manage the data in a relational database.
+
+## SQL Commdands:
+
+<img src="https://github.com/user-attachments/assets/d8953355-3b6e-4766-a5f0-79ef47620f7c" alt="commands" width="500"/>
+
+<img src="https://github.com/user-attachments/assets/a4fa8577-bda1-48ec-b251-19b2454de653" alt="commands" width="500"/>
+
+## SQL Datatypes:
+
+Character type, integer types, non-integrer types, boolean, miscellinious types
+https://www.w3schools.com/sql/sql_datatypes.asp
+
+## Operators: 
+Arithmetic, logical, comparision
