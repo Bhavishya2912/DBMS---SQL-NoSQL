@@ -1,5 +1,5 @@
 -- COMBINE TWO TABLES
--- https://leetcode.com/problems/combine-two-tables/?envType=problem-list-v2&envId=m8baczxh
+-- https://leetcode.com/problems/combine-two-tables/
 
 
 -- Approach: 
