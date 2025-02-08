@@ -16,5 +16,5 @@ https://www.w3schools.com/sql/sql_datatypes.asp
 Arithmetic, logical, comparision
 
 
-
-## SQL BASIC COMMANDS:
+## SQL BASIC QUERIES:
+https://github.com/Bhavishya2912/DBMS---SQL-NoSQL/blob/main/SQL%20BASIC%20QUERIES.sql
