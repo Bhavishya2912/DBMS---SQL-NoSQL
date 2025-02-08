@@ -14,3 +14,7 @@ https://www.w3schools.com/sql/sql_datatypes.asp
 
 ## Operators: 
 Arithmetic, logical, comparision
+
+
+
+## SQL BASIC COMMANDS:
