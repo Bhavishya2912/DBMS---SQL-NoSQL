@@ -17,4 +17,4 @@ Arithmetic, logical, comparision
 
 
 ## SQL BASIC QUERIES:
-https://github.com/Bhavishya2912/DBMS---SQL-NoSQL/blob/main/SQL%20BASIC%20QUERIES.sql
+https://github.com/Bhavishya2912/DBMS---SQL-NoSQL/blob/67b586c3d35283e9ae0d9b65a01318b350afab49/DBMS/SQL.md
