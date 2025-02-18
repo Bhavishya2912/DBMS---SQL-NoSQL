@@ -1,5 +1,8 @@
 -- SECOND HIGHEST SALARY
 
+
+-- PANDAS SOLUTION - 
+
 -- APPROACH 1:
 /* To find the second highest salary from an employee table, and return NULL if no second highest salary present.
 - So, first find the highest or max salary for the employee.
