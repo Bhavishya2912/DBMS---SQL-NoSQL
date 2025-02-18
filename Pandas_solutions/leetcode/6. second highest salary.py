@@ -1,5 +1,6 @@
 # -- SECOND HIGHEST SALARY
 
+# SQL SOLUTION: SQL_solutions\leetcode\6. Second highest salary.sql
 
 # -- PANDAS SOLUTION - 
 
