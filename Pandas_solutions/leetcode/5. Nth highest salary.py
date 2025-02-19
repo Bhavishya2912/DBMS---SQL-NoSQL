@@ -1,10 +1,9 @@
 # -- Nth HIGHEST SALARY (Using functions)
 # -- https://leetcode.com/problems/nth-highest-salary/
 
-# SQL SOLUTION - 
-# SQL_solutions\leetcode\5.Nth highest salary.sql
+# SQL SOLUTION - SQL_solutions\leetcode\5.Nth highest salary.sql
 
-# -- PANDAS SOLUTION -
+# PANDAS SOLUTION -
 import pandas as pd
 
 def nth_highest_salary(employee: pd.DataFrame, N: int) -> pd.DataFrame:

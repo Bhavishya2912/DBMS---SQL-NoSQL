@@ -2,14 +2,7 @@
 
 # SQL SOLUTION: SQL_solutions\leetcode\6. Second highest salary.sql
 
-# -- PANDAS SOLUTION - 
-
-# -- APPROACH:
-
-# /* To find the second highest salary from an employee table, and return NULL if no second highest salary present.
-# - So, first find the highest or max salary for the employee.
-# - then filter out any salaries that are equal to the maximum salary, hence among all salaries will be less than the max salary, form those select MAX now.
-# */
+# PANDAS SOLUTION - 
 
 import pandas as pd
 
