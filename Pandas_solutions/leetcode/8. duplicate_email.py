@@ -1,18 +1,13 @@
 import pandas as pd
 
 def duplicate_emails(person: pd.DataFrame) -> pd.DataFrame:
-    count = person.groupby('email').count()
-    # print(count['id'])  # for debugging purposes, print count of each email address
-    duplicated = count[count['id'] > 1]
-    res = duplicated.index.to_frame(index = False)
-    return res
+    return person[person.duplicated('email')][['email']].drop_duplicates()
 
 
 
-# call
-data = [[1, 'a@b.com'], [2, 'c@d.com'], [3, 'a@b.com']]
-person = pd.DataFrame(data, columns=['id', 'email']).astype({'id':'Int64', 'email':'object'})
+# # APPROACH 2: using map and lambda function without uing duplicated()
+# def duplicate_emails_map(person: pd.DataFrame) -> pd.DataFrame:
+#     email_counts = person['email'].value_counts()
+#     duplicates = person[person['email'].map(lambda x: email_counts[x] > 1)]
+#     return pd.DataFrame({'Email': duplicates['email'].unique()})
 
-
-result = duplicate_emails(person)
-print(result)
