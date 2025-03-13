@@ -1,4 +1,5 @@
 # -- SECOND HIGHEST SALARY
+# -- https://leetcode.com/problems/second-highest-salary
 
 # SQL SOLUTION: SQL_solutions\leetcode\6. Second highest salary.sql
 

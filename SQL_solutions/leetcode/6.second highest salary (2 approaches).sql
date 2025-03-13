@@ -1,4 +1,5 @@
 -- SECOND HIGHEST SALARY
+-- https://leetcode.com/problems/second-highest-salary
 
 -- APPROACH 1:
 /* To find the second highest salary from an employee table, and return NULL if no second highest salary present.
